@@ -18,15 +18,13 @@ Frontend developer passionate about crafting seamless user experiences. With exp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original-wordmark.svg" alt="Cypress" width="40" height="40"/>
-  <img src="https://www.chromatic.com/static/logo-115ea04a8904fe8eaa52b18605928270.svg" alt="Chromatic" width="40" height="40"/>
 </p>
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/marwan-esmaail/)
 - [Portfolio Website](https://www.yourportfolio.com)
-- [Email](mailto:youremail@example.com)
+- [Email](marwan.esmaail85@gmail.com)
 
   ![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanEsm&show_icons=true&theme=radical)
 
