@@ -26,6 +26,6 @@ Frontend developer passionate about crafting seamless user experiences. With exp
 - [Portfolio Website](https://www.yourportfolio.com)
 - [Email](marwan.esmaail85@gmail.com)
 
-  ![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanEsm&show_icons=true&theme=merko)
+  ![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanEsm&show_icons=true&theme=gruvbox)
 
 
